@@ -1,0 +1,38 @@
+﻿<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:viewModels="clr-namespace:AvaloniaApplication1.ViewModels"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="AvaloniaApplication1.Views.Windows.NewBookWindow"
+        Title="NewBookWindow">
+    
+    <Design.DataContext>
+        <!-- This only sets the DataContext for the previewer in an IDE,
+             to set the actual DataContext for runtime, set the DataContext property in code (look at App.axaml.cs) -->
+        <viewModels:MainWindowViewModel />
+    </Design.DataContext>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <Label Grid.Column="0" Grid.Row="0" Content="Title:"/>
+        <TextBox Grid.Column="1" Grid.Row="0" x:Name="titleTextBox"/>
+
+        <Label Grid.Column="0" Grid.Row="1" Content="Author:"/>
+        <TextBox Grid.Column="1" Grid.Row="1" x:Name="authorTextBox"/>
+
+        <Label Grid.Column="0" Grid.Row="2" Content="Genre Tags:"/>
+        <ListBox Grid.Column="1" Grid.Row="2" x:Name="genreTagsListBox"/>
+
+        <Button Grid.Column="1" Grid.Row="3" Content="Add Book" Click="AddBookButton_Click"/>
+    </Grid>
+</Window>
