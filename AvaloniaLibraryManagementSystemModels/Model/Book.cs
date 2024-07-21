@@ -17,10 +17,12 @@ namespace AvaloniaApplication1.Models
         public ICollection<Genre> Genres { get; set; }
 
         public DateOnly PublicationDate { get; set; }
-        public int PublicationYear { get; set; }
+        public int PublicationYear => PublicationDate.Year;
         public Publisher Publisher { get; set; }
         public string? Description { get; set; }
         public bool IsAvailable { get; set; }
+        
+        public string CoverImage { get; }
         
         public string GenreTags
         {
@@ -29,6 +31,8 @@ namespace AvaloniaApplication1.Models
                 return string.Join(", ", Genres.Select(g => g.Name));
             }
         }
+
+        
 
         public Book(int Id, string Title, string Author, string ISBN, DateOnly Publication, string Publisher,
             string? Description = null, bool IsAvailable = false, List<Genre> Genres = null)
@@ -49,29 +53,10 @@ namespace AvaloniaApplication1.Models
 
         public Book()
         {
-            Console.WriteLine("1");
         }
 
         public void SetAvailable(bool available) => IsAvailable = available;
 
         //public virtual ICollection<Circulation> Circulations { get; set; }
-    }
-
-    public class Genre
-    {
-        public int Id { get; set; }
-        public string Name { get; set; }
-        public ICollection<Book> Books { get; set; }
-
-        public Genre(int Id, string Name)
-        {
-            this.Id = Id;
-            this.Name = Name;
-        }
-
-        public Genre()
-        {
-           Console.WriteLine(" "); 
-        }
     }
 }

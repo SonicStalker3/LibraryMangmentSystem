@@ -1,10 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "SHfSx4B+3ok=",
+  "dgSpecHash": "6Rln6Avb5Oc=",
   "success": true,
   "projectFilePath": "D:\\VSProjects\\AvaloniaLibraryManagementSystem\\AvaloniaLibraryManagementSystemModels\\AvaloniaLibraryManagementSystemModels.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Arseniy\\.nuget\\packages\\avalonia\\11.0.10\\avalonia.11.0.10.nupkg.sha512",
+    "C:\\Users\\Arseniy\\.nuget\\packages\\avalonia.buildservices\\0.0.29\\avalonia.buildservices.0.0.29.nupkg.sha512",
+    "C:\\Users\\Arseniy\\.nuget\\packages\\avalonia.remote.protocol\\11.0.10\\avalonia.remote.protocol.11.0.10.nupkg.sha512",
     "C:\\Users\\Arseniy\\.nuget\\packages\\entityframework\\6.5.1\\entityframework.6.5.1.nupkg.sha512",
+    "C:\\Users\\Arseniy\\.nuget\\packages\\microcom.runtime\\0.11.0\\microcom.runtime.0.11.0.nupkg.sha512",
     "C:\\Users\\Arseniy\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Arseniy\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\Arseniy\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",

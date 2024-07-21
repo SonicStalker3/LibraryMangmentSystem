@@ -11,6 +11,7 @@ public partial class NewBookWindow : Window
     public NewBookWindow()
     {
         InitializeComponent();
+        //genreTagsListBox.ItemsSource = Genres;
     }
 
     private void AddBookButton_Click(object? sender, RoutedEventArgs e)

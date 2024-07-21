@@ -32,4 +32,17 @@
     <data name="AboutApplicationButtonName" xml:space="preserve">
         <value>About Application</value>
     </data>
+    <data name="IDTableName" xml:space="preserve">
+        <value>ID</value>
+        <comment>Название колонки Код в таблице</comment>
+    </data>
+    <data name="AuthorTableName" xml:space="preserve">
+        <value>Author</value>
+        <comment>Название колонки Автор в таблице</comment>
+    </data>
+    
+    <data name="GenreTableName" xml:space="preserve">
+        <value>Genre</value>
+        <comment>Название колонки Жанра в таблице</comment>
+    </data>
 </root>

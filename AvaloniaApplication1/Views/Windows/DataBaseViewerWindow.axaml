@@ -1,0 +1,75 @@
+﻿<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:viewModels="clr-namespace:AvaloniaApplication1.ViewModels"
+        xmlns:assets="clr-namespace:AvaloniaApplication1.Assets"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="AvaloniaApplication1.Views.Windows.DataBaseViewerWindow"
+        x:DataType="viewModels:MainWindowViewModel"
+        Title="DataBaseViewerWindow">
+        <Design.DataContext>
+        <!-- This only sets the DataContext for the previewer in an IDE,
+             to set the actual DataContext for runtime, set the DataContext property in code (look at App.axaml.cs) -->
+        <viewModels:MainWindowViewModel/>
+    </Design.DataContext>
+
+    <DockPanel>
+        <!-- Toolbar -->
+        <StackPanel DockPanel.Dock="Top" Orientation="Horizontal" Background="Gray">
+            <Button Content="{x:Static assets:Resources.NewBookButtonName}"  Click="NewBookButton_Click"/>
+            <Button Content="{x:Static assets:Resources.SearchBookButtonName}" Click="SearchBookButton_Click" />
+            <Button Content="Save" />
+            <Button Content="Print" />
+            <Button Content="{x:Static assets:Resources.AboutApplicationButtonName}" Click="AboutButton_Click"/>
+        </StackPanel>
+
+        <!-- Main content area -->
+        <Grid DockPanel.Dock="Bottom" RowDefinitions="Auto,*" ColumnDefinitions="*,*">
+            <!-- Book list -->
+            <Grid Grid.Column="0" Grid.Row="1" Margin="10">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <TextBlock Text="Book List" FontSize="18" FontWeight="Bold" Margin="10"/>
+                <DataGrid Grid.Row="1" ItemsSource="{Binding Books}"
+                          IsReadOnly="True"
+                          CanUserResizeColumns="True"
+                          CanUserSortColumns="False"
+                          GridLinesVisibility="All"
+                          SelectedItem="{Binding SelectedBook, Mode=TwoWay}"
+                          BorderThickness="1" BorderBrush="Gray">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="{x:Static assets:Resources.IDTableName}"  Binding="{Binding Id}"/>
+                        <DataGridTextColumn Header="Author" Binding="{Binding Author.FullName}" />
+                        <DataGridTextColumn Header="Title" Binding="{Binding Title}" />
+                        <DataGridTextColumn Header="Genres" Binding="{Binding GenreTags}" />
+                    </DataGrid.Columns>
+                </DataGrid>
+            </Grid>
+
+            <!-- Book details -->
+            <Grid Grid.Column="1" Grid.Row="1" Margin="10">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <TextBlock Text="Book Details" FontSize="18" FontWeight="Bold" Margin="10"/>
+                <StackPanel Grid.Row="1" Orientation="Vertical">
+                    <TextBlock Text="Title:" Margin="5"/>
+                    <TextBlock Text="{Binding SelectedBook.Title}" Margin="5"/>
+                    <TextBlock Text="Author:" Margin="5"/>
+                    <TextBlock Text="{Binding SelectedBook.Author.FullName}" Margin="5"/>
+                    <TextBlock Text="Genres:" Margin="5"/>
+                    <TextBlock Text="{Binding SelectedBook.GenreTags}" Margin="5"/>
+                    <TextBlock Text="BBK:" Margin="5"/>
+                    <TextBlock Text="{Binding SelectedBook.BBK.Name}" Margin="5"/>
+                    <TextBlock Text="Description:" Margin="5"/>
+                    <TextBlock Text="{Binding SelectedBook.Description}" MaxLines="20" Margin="5" TextWrapping="Wrap"/>
+                </StackPanel>
+            </Grid>
+        </Grid>
+    </DockPanel>
+
+</Window>

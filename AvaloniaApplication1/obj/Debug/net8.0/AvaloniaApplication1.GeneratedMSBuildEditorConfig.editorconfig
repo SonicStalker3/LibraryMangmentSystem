@@ -20,10 +20,16 @@ build_property.EnableGeneratedComInterfaceComImportInterop =
 [D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/App.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
+[D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/Controlls/ToolBar.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
 [D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/Views/MainWindow.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
 [D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/Views/Windows/AboutApplicationWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/Views/Windows/DataBaseViewerWindow.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
 [D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/Views/Windows/NewBookWindow.axaml]

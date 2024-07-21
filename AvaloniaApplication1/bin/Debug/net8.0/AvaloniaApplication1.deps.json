@@ -981,6 +981,7 @@
       },
       "AvaloniaLibraryManagementSystemModels/1.0.0": {
         "dependencies": {
+          "Avalonia": "11.0.10",
           "EntityFramework": "6.5.1",
           "System.Data.SQLite.Core": "1.0.118",
           "System.Data.SqlClient": "4.8.6"

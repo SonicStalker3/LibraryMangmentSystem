@@ -16,7 +16,7 @@ namespace AvaloniaApplication1
 
         public override void OnFrameworkInitializationCompleted()
         {
-            Assets.Resources.Culture = new CultureInfo("ru-Ru");
+            Assets.Resources.Culture = CultureInfo.CurrentCulture;//new CultureInfo("ru-Ru");
             if (ApplicationLifetime is IClassicDesktopStyleApplicationLifetime desktop)
             {
                 desktop.MainWindow = new MainWindow

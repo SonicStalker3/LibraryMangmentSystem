@@ -4,71 +4,69 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:assets="clr-namespace:AvaloniaApplication1.Assets"
+        xmlns:model="clr-namespace:AvaloniaLibraryManagementSystemModels.Model;assembly=AvaloniaLibraryManagementSystemModels"
+        xmlns:controlls="clr-namespace:AvaloniaApplication1.Controlls"
         mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="600"
         x:Class="AvaloniaApplication1.Views.MainWindow"
         x:DataType="vm:MainWindowViewModel"
         Icon="/Assets/avalonia-logo.ico"
         Title="Library Management System">
-
+    
     <Design.DataContext>
         <!-- This only sets the DataContext for the previewer in an IDE,
              to set the actual DataContext for runtime, set the DataContext property in code (look at App.axaml.cs) -->
-        <vm:MainWindowViewModel/>
+        <vm:MainWindowViewModel />
     </Design.DataContext>
 
     <DockPanel>
         <!-- Toolbar -->
-        <StackPanel DockPanel.Dock="Top" Orientation="Horizontal" Background="Gray">
-            <Button Content="{x:Static assets:Resources.NewBookButtonName}"  Click="NewBookButton_Click"/>
+        <!--<StackPanel DockPanel.Dock="Top" Orientation="Horizontal" Background="Gray">
+            <Button Content="{x:Static assets:Resources.NewBookButtonName}" Click="NewBookButton_Click" />
             <Button Content="{x:Static assets:Resources.SearchBookButtonName}" Click="SearchBookButton_Click" />
             <Button Content="Save" />
             <Button Content="Print" />
-            <Button Content="{x:Static assets:Resources.AboutApplicationButtonName}" Click="AboutButton_Click"/>
-        </StackPanel>
-
+            <Button Content="{x:Static assets:Resources.AboutApplicationButtonName}" Click="AboutButton_Click" />
+        </StackPanel>-->
+        <controlls:ToolBar DockPanel.Dock="Top"></controlls:ToolBar>
+        
+        <!-- Search Bar -->
+        <Grid DockPanel.Dock="Top" ColumnDefinitions="Auto,*">
+            <TextBlock Margin="0,10,0,0" Grid.Column="0">Поиск</TextBlock>
+            <TextBox Grid.Column="1" HorizontalAlignment="Stretch" Margin="5,5" />
+        </Grid>
+        
         <!-- Main content area -->
-        <Grid DockPanel.Dock="Bottom" RowDefinitions="Auto,*" ColumnDefinitions="*,*">
-            <!-- Book list -->
-            <Grid Grid.Column="0" Grid.Row="1" Margin="10">
-                <Grid.RowDefinitions>
-                    <RowDefinition Height="Auto"/>
-                    <RowDefinition Height="*"/>
-                </Grid.RowDefinitions>
-                <TextBlock Text="Book List" FontSize="18" FontWeight="Bold" Margin="10"/>
-                <DataGrid Grid.Row="1" ItemsSource="{Binding Books}"
-                          IsReadOnly="True"
-                          CanUserResizeColumns="True"
-                          CanUserSortColumns="False"
-                          GridLinesVisibility="All"
-                          SelectedItem="{Binding SelectedBook, Mode=TwoWay}"
-                          BorderThickness="1" BorderBrush="Gray">
-                    <DataGrid.Columns>
-                        <DataGridTextColumn Header="Id"  Binding="{Binding Id}"/>
-                        <DataGridTextColumn Header="Author" Binding="{Binding Author}" />
-                        <DataGridTextColumn Header="Title" Binding="{Binding Title}" />
-                        <DataGridTextColumn Header="Genres" Binding="{Binding GenreTags}" />
-                    </DataGrid.Columns>
-                </DataGrid>
-            </Grid>
+        <Grid ColumnDefinitions="Auto" RowDefinitions="Auto,*">
+            <ScrollViewer Grid.Row="1" DockPanel.Dock="Right" HorizontalScrollBarVisibility="Auto"
+                          VerticalScrollBarVisibility="Auto"
+                          Width="{Binding Width, RelativeSource={RelativeSource AncestorType=Window}}"
+                          ScrollChanged="MainView_ScrollChanged" Loaded="View_Loaded">
+                <ItemsControl ItemsSource="{Binding Books}">
+                    <ItemsControl.ItemsPanel>
+                        <ItemsPanelTemplate>
+                            <UniformGrid
+                                Columns="{Binding Path=Viewport.Width, RelativeSource={RelativeSource AncestorType=ScrollViewer}, Converter={StaticResource ColumnCountConverter}}" />
+                        </ItemsPanelTemplate>
+                    </ItemsControl.ItemsPanel>
+                    <ItemsControl.ItemTemplate>
+                        <DataTemplate>
+                            <Border Width="250" Height="350" Margin="10" Background="LightGray" CornerRadius="10" PointerReleased="BookElement_OnPointerReleased">
+                                <Grid ColumnDefinitions="*" RowDefinitions="Auto,*">
+                                    <Image Grid.Row="0" Grid.Column="0" Width="120" Height="120"
+                                           Source="{Binding CoverImage}" />
 
-            <!-- Book details -->
-            <Grid Grid.Column="1" Grid.Row="1" Margin="10">
-                <Grid.RowDefinitions>
-                    <RowDefinition Height="Auto"/>
-                    <RowDefinition Height="*"/>
-                </Grid.RowDefinitions>
-                <TextBlock Text="Book Details" FontSize="18" FontWeight="Bold" Margin="10"/>
-                <StackPanel Grid.Row="1" Orientation="Vertical">
-                    <TextBlock Text="Title:" Margin="5"/>
-                    <TextBlock Text="{Binding SelectedBook.Title}" Margin="5"/>
-                    <TextBlock Text="Author:" Margin="5"/>
-                    <TextBlock Text="{Binding SelectedBook.Author}" Margin="5"/>
-                    <TextBlock Text="Genres:" Margin="5"/>
-                    <TextBlock Text="{Binding SelectedBook.GenreTags}" Margin="5"/>
-                    <TextBlock Text="Description:" Margin="5"/>
-                    <TextBlock Text="{Binding SelectedBook.Description}" Margin="5" TextWrapping="Wrap"/>
-                </StackPanel>
-            </Grid>
+                                    <StackPanel Grid.Row="1" Grid.Column="0" Margin="10">
+                                        <TextBlock FontWeight="Bold" FontSize="18" Text="{Binding Title}" />
+                                        <TextBlock FontWeight="Bold" FontSize="14" Text="{Binding Author.FullName}" />
+                                        <TextBlock FontWeight="Bold" FontSize="14" Text="{Binding PublicationYear}" />
+                                        <TextBlock TextWrapping="Wrap" Text="{Binding Description}" />
+                                    </StackPanel>
+                                </Grid>
+                            </Border>
+                        </DataTemplate>
+                    </ItemsControl.ItemTemplate>
+                </ItemsControl>
+            </ScrollViewer>
         </Grid>
     </DockPanel>
 
