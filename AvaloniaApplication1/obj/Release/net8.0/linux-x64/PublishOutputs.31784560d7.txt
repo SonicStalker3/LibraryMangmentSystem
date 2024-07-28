@@ -1,0 +1,3 @@
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Release\net8.0\linux-x64-Full\publish\AvaloniaApplication1.pdb
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Release\net8.0\linux-x64-Full\publish\AvaloniaLibraryManagementSystemModels.pdb
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Release\net8.0\linux-x64-Full\publish\AvaloniaApplication1

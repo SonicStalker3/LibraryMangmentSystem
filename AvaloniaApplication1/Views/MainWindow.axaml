@@ -6,11 +6,17 @@
         xmlns:assets="clr-namespace:AvaloniaApplication1.Assets"
         xmlns:model="clr-namespace:AvaloniaLibraryManagementSystemModels.Model;assembly=AvaloniaLibraryManagementSystemModels"
         xmlns:controlls="clr-namespace:AvaloniaApplication1.Controlls"
-        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="600"
+        mc:Ignorable="d" d:DesignWidth="1280" d:DesignHeight="720"
         x:Class="AvaloniaApplication1.Views.MainWindow"
         x:DataType="vm:MainWindowViewModel"
         Icon="/Assets/avalonia-logo.ico"
+        Width="1080" Height="826"
         Title="Library Management System">
+    
+    <!--<Window.KeyBindings>
+        <KeyBinding Gesture="Ctrl+O" Command="{Binding Open}" />
+        <KeyBinding Gesture="Ctrl+S" Command="{Binding Save}" />
+    </Window.KeyBindings>-->
     
     <Design.DataContext>
         <!-- This only sets the DataContext for the previewer in an IDE,
@@ -19,20 +25,14 @@
     </Design.DataContext>
 
     <DockPanel>
-        <!-- Toolbar -->
-        <!--<StackPanel DockPanel.Dock="Top" Orientation="Horizontal" Background="Gray">
-            <Button Content="{x:Static assets:Resources.NewBookButtonName}" Click="NewBookButton_Click" />
-            <Button Content="{x:Static assets:Resources.SearchBookButtonName}" Click="SearchBookButton_Click" />
-            <Button Content="Save" />
-            <Button Content="Print" />
-            <Button Content="{x:Static assets:Resources.AboutApplicationButtonName}" Click="AboutButton_Click" />
-        </StackPanel>-->
+        <!-- ToolBar -->
         <controlls:ToolBar DockPanel.Dock="Top"></controlls:ToolBar>
         
         <!-- Search Bar -->
-        <Grid DockPanel.Dock="Top" ColumnDefinitions="Auto,*">
-            <TextBlock Margin="0,10,0,0" Grid.Column="0">Поиск</TextBlock>
-            <TextBox Grid.Column="1" HorizontalAlignment="Stretch" Margin="5,5" />
+        <Grid DockPanel.Dock="Top" Margin="0,10,0,0" ColumnDefinitions="Auto,*">
+            <Image Height="45" Source="/Assets/app_ico.png"/>
+            <!--<TextBlock Margin="0,10,0,0" Grid.Column="0">Поиск</TextBlock>-->
+            <TextBox Grid.Column="1" HorizontalAlignment="Stretch" Margin="5,5" TextChanged="SearchField_OnTextChanged"/>
         </Grid>
         
         <!-- Main content area -->
@@ -52,14 +52,13 @@
                         <DataTemplate>
                             <Border Width="250" Height="350" Margin="10" Background="LightGray" CornerRadius="10" PointerReleased="BookElement_OnPointerReleased">
                                 <Grid ColumnDefinitions="*" RowDefinitions="Auto,*">
-                                    <Image Grid.Row="0" Grid.Column="0" Width="120" Height="120"
-                                           Source="{Binding CoverImage}" />
+                                    <Image Grid.Row="0" Grid.Column="0" Width="120" Height="120" Source="{Binding CoverImage}" />
 
                                     <StackPanel Grid.Row="1" Grid.Column="0" Margin="10">
                                         <TextBlock FontWeight="Bold" FontSize="18" Text="{Binding Title}" />
                                         <TextBlock FontWeight="Bold" FontSize="14" Text="{Binding Author.FullName}" />
                                         <TextBlock FontWeight="Bold" FontSize="14" Text="{Binding PublicationYear}" />
-                                        <TextBlock TextWrapping="Wrap" Text="{Binding Description}" />
+                                        <TextBlock TextWrapping="Wrap" MaxLines="20" Text="{Binding Description}" />
                                     </StackPanel>
                                 </Grid>
                             </Border>

@@ -10,6 +10,7 @@
 
     <ItemGroup>
         <AvaloniaResource Include="Assets\**" />
+        <AvaloniaResource Include="Styles\**" />
     </ItemGroup>
 
     <ItemGroup>
@@ -67,5 +68,10 @@
       <AvaloniaResource Update="Assets\Resources.ru-Ru.resx">
         <Generator>PublicResXFileCodeGenerator</Generator>
       </AvaloniaResource>
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Services\" />
+      <Folder Include="Styles\" />
     </ItemGroup>
 </Project>

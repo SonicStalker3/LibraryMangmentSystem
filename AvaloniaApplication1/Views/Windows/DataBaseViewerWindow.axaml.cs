@@ -1,4 +1,5 @@
-﻿using Avalonia;
+﻿using System;
+using Avalonia;
 using Avalonia.Controls;
 using Avalonia.Interactivity;
 using Avalonia.Markup.Xaml;
@@ -33,5 +34,10 @@ public partial class DataBaseViewerWindow : Window
     private void BookSelected(object? sender, SelectionChangedEventArgs e)
     {
         ;
+    }
+
+    private void Control_OnLoaded(object? sender, RoutedEventArgs e)
+    {
+        Console.WriteLine();
     }
 }

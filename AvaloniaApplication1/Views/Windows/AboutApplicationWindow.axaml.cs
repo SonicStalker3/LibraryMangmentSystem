@@ -16,11 +16,11 @@ public partial class AboutApplicationWindow : Window
 
     private void CancelButton_Click(object? sender, RoutedEventArgs e)
     {
-        throw new System.NotImplementedException();
+        Close();
     }
 
     private void OkButton_Click(object? sender, RoutedEventArgs e)
     {
-        throw new System.NotImplementedException();
+        Close();
     }
 }

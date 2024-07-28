@@ -12,7 +12,7 @@ public partial class ToolBar : UserControl
     {
         InitializeComponent();
     }
-    
+
     private void NewBookButton_Click(object? sender, RoutedEventArgs e)
     {
         Window window = (Window)this.VisualRoot;
@@ -33,5 +33,18 @@ public partial class ToolBar : UserControl
         AboutApplicationWindow aboutApplicationWindow = new AboutApplicationWindow();
         aboutApplicationWindow.Show(window);
     }
-    
+
+    private void DataBasePreviewButton_Click(object? sender, RoutedEventArgs e)
+    {
+        Window window = (Window)this.VisualRoot;
+        DataBaseViewerWindow dataBaseViewerWindow = new DataBaseViewerWindow();
+        dataBaseViewerWindow.Show(window);
+    }
+
+    private void SettingsButton_Click(object? sender, RoutedEventArgs e)
+    {
+        Window window = (Window)this.VisualRoot;
+        SettingsWindow settingsWindowWindow = new SettingsWindow();
+        settingsWindowWindow.Show(window);
+    }
 }

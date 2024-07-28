@@ -7,6 +7,7 @@ using System.Data.SQLite;
 using System.Linq;
 using AvaloniaApplication1.Models;
 using AvaloniaLibraryManagementSystemModels.Model;
+using AvaloniaLibraryManagementSystemModels.Systems;
 
 namespace AvaloniaApplication1.Data
 {
@@ -17,6 +18,16 @@ namespace AvaloniaApplication1.Data
         public DatabaseContext(string connectionString)
         {
             _connectionString = connectionString;
+
+            using var connection = new SQLiteConnection(_connectionString);
+            connection.Open();
+
+            // Create a command to execute a query
+            using var command = new SQLiteCommand(connection);
+            
+            // Create the Books table
+            command.CommandText = SqlRequests.CreateNewDB;
+            command.ExecuteNonQuery();
         }
 
         public IEnumerable<Book> GetBooks()
@@ -27,26 +38,7 @@ namespace AvaloniaApplication1.Data
 
                 using (var command = new SQLiteCommand(connection))
                 {
-                    command.CommandText = @"
-                    SELECT 
-                        k.Код_Книги,
-                        k.Заголовок,
-                        a.Код_Автор || ' ' || a.Имя || ' ' || a.Фамилия || a.Отчество AS Author,
-                        b.Научные_Индекс || ' ' || b.Массовые_Индекс || ' ' || b.Название_раздела AS BBK,
-                        GROUP_CONCAT(j.Название, ', ') AS Genres,
-                        k.Дата,
-                        i.Имя_Издателя AS Publisher,
-                        k.Описание
-                    FROM 
-                        Книги k
-                        INNER JOIN Авторы a ON k.Код_Автор = a.Код_Автор
-                        INNER JOIN ББК b ON k.Код_ББК = b.Код_ББК
-                        INNER JOIN ЖанрыКниги jk ON k.Код_Книги = jk.Код_Книги
-                        INNER JOIN Жанры j ON jk.Код_Жанр = j.Код_Жанр
-                        INNER JOIN Издатели i ON k.Код_Издателя = i.Код_Издателя
-                    GROUP BY 
-                        k.Код_Книги, k.Заголовок, a.Имя, a.Фамилия, b.Научные_Индекс, b.Массовые_Индекс, k.Дата, i.Имя_Издателя, k.Описание;
-                    ";
+                    command.CommandText = SqlRequests.GetBookQuery;
 
                     using (var reader = command.ExecuteReader())
                     {

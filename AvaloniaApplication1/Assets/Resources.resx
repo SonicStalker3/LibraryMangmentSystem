@@ -45,4 +45,16 @@
         <value>Genre</value>
         <comment>Название колонки Жанра в таблице</comment>
     </data>
+    <data name="TitleTableName" xml:space="preserve">
+        <value>Title</value><comment>Название колонки  Заголовок в таблице</comment>
+    </data>
+    <data name="DescriptionTableName" xml:space="preserve">
+        <value>Description</value>
+    </data>
+    <data name="SettingsButtonName" xml:space="preserve">
+        <value>Settings</value>
+    </data>
+    <data name="DataBasePreviewButtonName" xml:space="preserve">
+        <value>DataBase Preview</value>
+    </data>
 </root>

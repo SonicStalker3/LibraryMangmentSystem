@@ -15,25 +15,6 @@ namespace AvaloniaApplication1.Views
         {
             InitializeComponent();
         }
-
-        private void NewBookButton_Click(object? sender, RoutedEventArgs e)
-        {
-            NewBookWindow newBookWindow = new NewBookWindow();
-            newBookWindow.Show(this);
-        }
-
-        private void SearchBookButton_Click(object? sender, RoutedEventArgs e)
-        {
-            SearchBookWindow searchBookWindow = new SearchBookWindow();
-            searchBookWindow.Show(this);
-        }
-
-        private void AboutButton_Click(object? sender, RoutedEventArgs e)
-        {
-            AboutApplicationWindow aboutApplicationWindow = new AboutApplicationWindow();
-            aboutApplicationWindow.Show(this);
-        }
-
         private void MainView_ScrollChanged(object? sender, ScrollChangedEventArgs e)
         {
             var scrollViewer = sender as ScrollViewer;
@@ -61,6 +42,11 @@ namespace AvaloniaApplication1.Views
                 /*BookDetailsWindow window = new BookDetailsWindow(book);
                 window.ShowDialog();*/
             }
+        }
+
+        private void SearchField_OnTextChanged(object? sender, TextChangedEventArgs e)
+        {
+            throw new NotImplementedException();
         }
     }
 }

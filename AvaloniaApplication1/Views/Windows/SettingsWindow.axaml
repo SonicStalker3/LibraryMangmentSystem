@@ -1,0 +1,34 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="650" d:DesignHeight="500"
+        x:Class="AvaloniaApplication1.Views.Windows.SettingsWindow"
+        Width="650"
+        Height="500"
+        Title="SettingsWindow">
+
+    <Grid ColumnDefinitions="5,*">
+        <TabControl Grid.Column="1" TabStripPlacement="Left" FontStretch="SemiCondensed">
+            <TabItem Header="Общие настройки" FontSize="12">
+
+                <StackPanel VerticalAlignment="Top">
+                    <StackPanel Orientation="Horizontal" Margin="0,10">
+                        <TextBlock Text="Язык: " Margin="5" />
+                        <ComboBox>
+                            <ComboBoxItem>Русский</ComboBoxItem>
+                        </ComboBox>
+                    </StackPanel>
+                </StackPanel>
+            </TabItem>
+
+            <TabItem Header="Дополнительно" FontSize="12">
+                <StackPanel VerticalAlignment="Top">
+                    <TextBlock Text="Content of Tab 2" />
+                </StackPanel>
+            </TabItem>
+
+        </TabControl>
+    </Grid>
+
+</Window>

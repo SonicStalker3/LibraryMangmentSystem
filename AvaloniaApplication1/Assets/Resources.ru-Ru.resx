@@ -41,4 +41,16 @@
     <data name="GenreTableName" xml:space="preserve">
         <value>Жанр</value>
     </data>
+    <data name="TitleTableName" xml:space="preserve">
+        <value>Заголовок</value>
+    </data>
+    <data name="DescriptionTableName" xml:space="preserve">
+        <value>Описание</value>
+    </data>
+    <data name="SettingsButtonName" xml:space="preserve">
+        <value>Настройки</value>
+    </data>
+    <data name="DataBasePreviewButtonName" xml:space="preserve">
+        <value>Предпросмотр Базы-данных</value>
+    </data>
 </root>

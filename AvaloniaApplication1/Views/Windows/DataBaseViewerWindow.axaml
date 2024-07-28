@@ -7,12 +7,18 @@
         mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
         x:Class="AvaloniaApplication1.Views.Windows.DataBaseViewerWindow"
         x:DataType="viewModels:MainWindowViewModel"
+        Width="1080" Height="826"
         Title="DataBaseViewerWindow">
-        <Design.DataContext>
+    
+    <Design.DataContext>
         <!-- This only sets the DataContext for the previewer in an IDE,
              to set the actual DataContext for runtime, set the DataContext property in code (look at App.axaml.cs) -->
         <viewModels:MainWindowViewModel/>
     </Design.DataContext>
+    
+    <Window.DataContext>
+        <viewModels:MainWindowViewModel/>
+    </Window.DataContext>
 
     <DockPanel>
         <!-- Toolbar -->
@@ -33,7 +39,7 @@
                     <RowDefinition Height="*"/>
                 </Grid.RowDefinitions>
                 <TextBlock Text="Book List" FontSize="18" FontWeight="Bold" Margin="10"/>
-                <DataGrid Grid.Row="1" ItemsSource="{Binding Books}"
+                <DataGrid Grid.Row="1" ItemsSource="{Binding Books}" Loaded="Control_OnLoaded"
                           IsReadOnly="True"
                           CanUserResizeColumns="True"
                           CanUserSortColumns="False"
@@ -42,9 +48,9 @@
                           BorderThickness="1" BorderBrush="Gray">
                     <DataGrid.Columns>
                         <DataGridTextColumn Header="{x:Static assets:Resources.IDTableName}"  Binding="{Binding Id}"/>
-                        <DataGridTextColumn Header="Author" Binding="{Binding Author.FullName}" />
-                        <DataGridTextColumn Header="Title" Binding="{Binding Title}" />
-                        <DataGridTextColumn Header="Genres" Binding="{Binding GenreTags}" />
+                        <DataGridTextColumn Header="{x:Static assets:Resources.AuthorTableName}" Binding="{Binding Author.FullName}" />
+                        <DataGridTextColumn Header="{x:Static assets:Resources.TitleTableName}" Binding="{Binding Title}" />
+                        <DataGridTextColumn Header="{x:Static assets:Resources.GenreTableName}" Binding="{Binding GenreTags}" />
                     </DataGrid.Columns>
                 </DataGrid>
             </Grid>
@@ -56,17 +62,33 @@
                     <RowDefinition Height="*"/>
                 </Grid.RowDefinitions>
                 <TextBlock Text="Book Details" FontSize="18" FontWeight="Bold" Margin="10"/>
-                <StackPanel Grid.Row="1" Orientation="Vertical">
-                    <TextBlock Text="Title:" Margin="5"/>
-                    <TextBlock Text="{Binding SelectedBook.Title}" Margin="5"/>
-                    <TextBlock Text="Author:" Margin="5"/>
-                    <TextBlock Text="{Binding SelectedBook.Author.FullName}" Margin="5"/>
-                    <TextBlock Text="Genres:" Margin="5"/>
-                    <TextBlock Text="{Binding SelectedBook.GenreTags}" Margin="5"/>
-                    <TextBlock Text="BBK:" Margin="5"/>
-                    <TextBlock Text="{Binding SelectedBook.BBK.Name}" Margin="5"/>
-                    <TextBlock Text="Description:" Margin="5"/>
-                    <TextBlock Text="{Binding SelectedBook.Description}" MaxLines="20" Margin="5" TextWrapping="Wrap"/>
+                <StackPanel Grid.Row="1" Orientation="Vertical" Spacing="5">
+                    <TextBlock Margin="5,5">
+                        <Run Text="{x:Static assets:Resources.TitleTableName}"/>
+                        <Run Text=":"/>
+                    </TextBlock>
+                    <TextBlock Text="{Binding SelectedBook.Title}" Margin="5,0,5,0"/>
+                    
+                    <TextBlock Margin="5,5">
+                        <Run Text="{x:Static assets:Resources.AuthorTableName}"/>
+                        <Run Text=":"/>
+                    </TextBlock>
+                    <TextBlock Text="{Binding SelectedBook.Author.FullName}" Margin="5,0,5,0"/>
+                    
+                    <TextBlock Margin="5">
+                        <Run Text="{x:Static assets:Resources.GenreTableName}"/>
+                        <Run Text=":"/>
+                    </TextBlock>
+                    <TextBlock Text="{Binding SelectedBook.GenreTags}" Margin="5,0,5,0"/>
+                    
+                    <TextBlock Text="ББК:" Margin="5,5"/>
+                    <TextBlock Text="{Binding SelectedBook.BBK.Name}" Margin="5,0,5,0"/>
+                    
+                    <TextBlock Margin="5,5">
+                        <Run Text="{x:Static assets:Resources.DescriptionTableName}"/>
+                        <Run Text=":"/>
+                    </TextBlock>
+                    <TextBlock Text="{Binding SelectedBook.Description}" MaxLines="20" Margin="5,0,5,0" TextWrapping="Wrap"/>
                 </StackPanel>
             </Grid>
         </Grid>

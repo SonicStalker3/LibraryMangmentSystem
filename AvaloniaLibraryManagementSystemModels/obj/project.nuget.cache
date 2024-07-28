@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "6Rln6Avb5Oc=",
+  "dgSpecHash": "1y0tmJuX/I4=",
   "success": true,
   "projectFilePath": "D:\\VSProjects\\AvaloniaLibraryManagementSystem\\AvaloniaLibraryManagementSystemModels\\AvaloniaLibraryManagementSystemModels.csproj",
   "expectedPackageFiles": [
@@ -27,7 +27,10 @@
     "C:\\Users\\Arseniy\\.nuget\\packages\\system.security.cryptography.protecteddata\\6.0.0\\system.security.cryptography.protecteddata.6.0.0.nupkg.sha512",
     "C:\\Users\\Arseniy\\.nuget\\packages\\system.security.permissions\\6.0.0\\system.security.permissions.6.0.0.nupkg.sha512",
     "C:\\Users\\Arseniy\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
-    "C:\\Users\\Arseniy\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+    "C:\\Users\\Arseniy\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Arseniy\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\8.0.7\\microsoft.netcore.app.runtime.linux-x64.8.0.7.nupkg.sha512",
+    "C:\\Users\\Arseniy\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\8.0.7\\microsoft.aspnetcore.app.runtime.linux-x64.8.0.7.nupkg.sha512",
+    "C:\\Users\\Arseniy\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\8.0.7\\microsoft.netcore.app.crossgen2.win-x64.8.0.7.nupkg.sha512"
   ],
   "logs": []
 }

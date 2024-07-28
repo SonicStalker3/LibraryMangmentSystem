@@ -9,9 +9,9 @@
              x:Class="AvaloniaApplication1.Controlls.ToolBar">
      <StackPanel Orientation="Horizontal" Background="Gray">
             <Button Content="{x:Static assets:Resources.NewBookButtonName}" Click="NewBookButton_Click" />
-            <Button Content="{x:Static assets:Resources.SearchBookButtonName}" Click="SearchBookButton_Click" />
-            <Button Content="Save" />
-            <Button Content="Print" />
+            <!--<Button Content="{x:Static assets:Resources.SearchBookButtonName}" Click="SearchBookButton_Click" />-->
+            <Button Content="{x:Static assets:Resources.DataBasePreviewButtonName}" Click="DataBasePreviewButton_Click" /> <!--{x:Static assets:Resources.DataBasePreviewButtonName}-->
+            <Button Content="{x:Static assets:Resources.SettingsButtonName}"  Click="SettingsButton_Click"/> <!--{x:Static assets:Resources.SettingsButtonName}-->
             <Button Content="{x:Static assets:Resources.AboutApplicationButtonName}" Click="AboutButton_Click" />
         </StackPanel>
 </UserControl>

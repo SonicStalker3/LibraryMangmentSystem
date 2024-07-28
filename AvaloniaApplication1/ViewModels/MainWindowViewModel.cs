@@ -26,12 +26,21 @@ namespace AvaloniaApplication1.ViewModels
         public ObservableCollection<Book> Books { get; }
 
         public ObservableCollection<Genre> Genres { get; }
-        public ObservableCollection<string> GenresNames { get; }
-        
+
+        private ObservableCollection<string> _genresNames;
+        public ObservableCollection<string> GenresNames
+        {
+            get
+            {
+                //Console.WriteLine(_genresNames[0]);
+                return _genresNames;
+            }
+        }
+
         public Vector ScrollPosition { get; set; }
         public Book SelectedBook
         {
-            get { return _selectedBook; }
+            get => _selectedBook;
             set
             {
                 this.RaiseAndSetIfChanged(ref _selectedBook, value);
@@ -46,7 +55,8 @@ namespace AvaloniaApplication1.ViewModels
         {
             Books = new ObservableCollection<Book>(_databaseContext.GetBooks());
             Genres = _databaseContext.GetGenres();
-            GenresNames = new ObservableCollection<string>(Genres.Select(x => x.Name));
+            _genresNames = new ObservableCollection<string>(Genres.Select(x => x.Name));
+            //Console.WriteLine(GenresNames[0]);
             //Application.Current.Exit += (sender, e) => { };
         }
     }

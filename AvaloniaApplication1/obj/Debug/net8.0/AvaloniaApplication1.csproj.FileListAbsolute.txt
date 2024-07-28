@@ -1,8 +1,349 @@
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/AvaloniaApplication1.exe
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/AvaloniaApplication1.deps.json
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/AvaloniaApplication1.runtimeconfig.json
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/AvaloniaApplication1.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/AvaloniaApplication1.pdb
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/Avalonia.Base.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/Avalonia.Controls.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/Avalonia.DesignerSupport.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/Avalonia.Dialogs.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/Avalonia.Markup.Xaml.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/Avalonia.Markup.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/Avalonia.Metal.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/Avalonia.MicroCom.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/Avalonia.OpenGL.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/Avalonia.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/Avalonia.Controls.ColorPicker.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/Avalonia.Controls.DataGrid.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/Avalonia.Desktop.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/Avalonia.Diagnostics.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/Avalonia.Fonts.Inter.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/Avalonia.FreeDesktop.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/Avalonia.Native.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/Avalonia.ReactiveUI.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/Avalonia.Remote.Protocol.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/Avalonia.Skia.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/Avalonia.Themes.Fluent.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/Avalonia.Themes.Simple.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/Avalonia.Win32.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/Avalonia.X11.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/DynamicData.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/HarfBuzzSharp.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/MicroCom.Runtime.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/Microsoft.CodeAnalysis.Scripting.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/ReactiveUI.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/SkiaSharp.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/Splat.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/System.IO.Pipelines.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/System.Reactive.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/Tmds.DBus.Protocol.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/runtimes/win-arm64/native/av_libglesv2.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/runtimes/win-x64/native/av_libglesv2.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/runtimes/win-x86/native/av_libglesv2.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/runtimes/osx/native/libAvaloniaNative.dylib
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/runtimes/linux-arm/native/libHarfBuzzSharp.so
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/runtimes/linux-arm64/native/libHarfBuzzSharp.so
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libHarfBuzzSharp.so
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/runtimes/linux-x64/native/libHarfBuzzSharp.so
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/runtimes/osx/native/libHarfBuzzSharp.dylib
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/runtimes/win-arm64/native/libHarfBuzzSharp.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/runtimes/win-x64/native/libHarfBuzzSharp.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/runtimes/win-x86/native/libHarfBuzzSharp.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/runtimes/linux-arm/native/libSkiaSharp.so
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/runtimes/linux-arm64/native/libSkiaSharp.so
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libSkiaSharp.so
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/runtimes/linux-x64/native/libSkiaSharp.so
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/runtimes/osx/native/libSkiaSharp.dylib
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/runtimes/win-arm64/native/libSkiaSharp.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/runtimes/win-x64/native/libSkiaSharp.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/runtimes/win-x86/native/libSkiaSharp.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Debug/net8.0/AvaloniaApplication1.csproj.AssemblyReference.cache
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Debug/net8.0/Avalonia/Resources.Inputs.cache
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Debug/net8.0/Avalonia/resources
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Debug/net8.0/AvaloniaApplication1.GeneratedMSBuildEditorConfig.editorconfig
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Debug/net8.0/AvaloniaApplication1.AssemblyInfoInputs.cache
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Debug/net8.0/AvaloniaApplication1.AssemblyInfo.cs
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Debug/net8.0/AvaloniaApplication1.csproj.CoreCompileInputs.cache
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Debug/net8.0/Avalonia/references
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Debug/net8.0/Avalonia/original.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Debug/net8.0/Avalonia/original.pdb
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Debug/net8.0/Avalonia/original.ref.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Debug/net8.0/refint/AvaloniaApplication1.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Debug/net8.0/AvaloniaApplication1.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Debug/net8.0/AvaloniaApplication1.pdb
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Debug/net8.0/Avalonia.FDB175D9.Up2Date
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Debug/net8.0/AvaloniaApplication1.genruntimeconfig.cache
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Debug/net8.0/ref/AvaloniaApplication1.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/Newtonsoft.Json.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Debug/net8.0/AvaloniaApplication1.csproj.GenerateResource.cache
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Debug/net8.0/AvaloniaApplication1.Assets.Resources.resources
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Debug/net8.0/AvaloniaApplication1.Assets.Resources.ru-Ru.resources
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/ru-Ru/AvaloniaApplication1.resources.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Debug/net8.0/ru-Ru/AvaloniaApplication1.resources.cs
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Debug/net8.0/ru-Ru/AvaloniaApplication1.resources.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/AvaloniaLibraryManagementSystemModels.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/AvaloniaLibraryManagementSystemModels.pdb
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/System.Data.SqlClient.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/runtimes/win-arm64/native/sni.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/runtimes/win-x64/native/sni.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/runtimes/win-x86/native/sni.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/System.Data.SQLite.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/runtimes/linux-x64/native/libsqlite3.so
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/runtimes/osx-x64/native/libsqlite3.dylib
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/runtimes/win7-x64/native/sqlite3.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/runtimes/win7-x86/native/sqlite3.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/runtimes/linux-x64/native/SQLite.Interop.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/runtimes/osx-x64/native/SQLite.Interop.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/runtimes/win-x64/native/SQLite.Interop.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/runtimes/win-x86/native/SQLite.Interop.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/EntityFramework.SqlServer.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/EntityFramework.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/System.CodeDom.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/System.Drawing.Common.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/System.Security.Permissions.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/System.Windows.Extensions.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Debug/net8.0/AvaloniaApplication1.sourcelink.json
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/AvaloniaApplication1
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/AvaloniaApplication1.deps.json
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/AvaloniaApplication1.runtimeconfig.json
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/AvaloniaApplication1.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/AvaloniaApplication1.pdb
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/ru-Ru/AvaloniaApplication1.resources.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/Avalonia.Base.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/Avalonia.Controls.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/Avalonia.DesignerSupport.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/Avalonia.Dialogs.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/Avalonia.Markup.Xaml.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/Avalonia.Markup.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/Avalonia.Metal.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/Avalonia.MicroCom.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/Avalonia.OpenGL.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/Avalonia.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/Avalonia.Controls.ColorPicker.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/Avalonia.Controls.DataGrid.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/Avalonia.Desktop.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/Avalonia.Diagnostics.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/Avalonia.Fonts.Inter.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/Avalonia.FreeDesktop.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/Avalonia.Native.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/Avalonia.ReactiveUI.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/Avalonia.Remote.Protocol.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/Avalonia.Skia.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/Avalonia.Themes.Fluent.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/Avalonia.Themes.Simple.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/Avalonia.Win32.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/Avalonia.X11.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/DynamicData.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/EntityFramework.SqlServer.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/EntityFramework.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/HarfBuzzSharp.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/MicroCom.Runtime.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/Microsoft.CodeAnalysis.Scripting.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/Newtonsoft.Json.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/ReactiveUI.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/SkiaSharp.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/Splat.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/System.Data.SQLite.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/System.CodeDom.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/System.Data.SqlClient.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/System.Drawing.Common.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/System.IO.Pipelines.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/System.Reactive.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/System.Security.Permissions.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/System.Windows.Extensions.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/Tmds.DBus.Protocol.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/runtimes/win-arm64/native/av_libglesv2.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/runtimes/win-x64/native/av_libglesv2.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/runtimes/win-x86/native/av_libglesv2.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/runtimes/osx/native/libAvaloniaNative.dylib
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/runtimes/linux-arm/native/libHarfBuzzSharp.so
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/runtimes/linux-arm64/native/libHarfBuzzSharp.so
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libHarfBuzzSharp.so
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/runtimes/linux-x64/native/libHarfBuzzSharp.so
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/runtimes/osx/native/libHarfBuzzSharp.dylib
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/runtimes/win-arm64/native/libHarfBuzzSharp.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/runtimes/win-x64/native/libHarfBuzzSharp.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/runtimes/win-x86/native/libHarfBuzzSharp.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/runtimes/win-arm64/native/sni.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/runtimes/win-x64/native/sni.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/runtimes/win-x86/native/sni.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/runtimes/linux-arm/native/libSkiaSharp.so
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/runtimes/linux-arm64/native/libSkiaSharp.so
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libSkiaSharp.so
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/runtimes/linux-x64/native/libSkiaSharp.so
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/runtimes/osx/native/libSkiaSharp.dylib
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/runtimes/win-arm64/native/libSkiaSharp.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/runtimes/win-x64/native/libSkiaSharp.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/runtimes/win-x86/native/libSkiaSharp.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/runtimes/linux-x64/native/libsqlite3.so
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/runtimes/osx-x64/native/libsqlite3.dylib
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/runtimes/win7-x64/native/sqlite3.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/runtimes/win7-x86/native/sqlite3.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/runtimes/linux-x64/native/SQLite.Interop.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/runtimes/osx-x64/native/SQLite.Interop.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/runtimes/win-x64/native/SQLite.Interop.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/runtimes/win-x86/native/SQLite.Interop.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/AvaloniaLibraryManagementSystemModels.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Debug/net8.0/AvaloniaLibraryManagementSystemModels.pdb
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Debug/net8.0/AvaloniaApplication1.csproj.AssemblyReference.cache
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Debug/net8.0/Avalonia/Resources.Inputs.cache
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Debug/net8.0/Avalonia/resources
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Debug/net8.0/AvaloniaApplication1.Assets.Resources.resources
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Debug/net8.0/AvaloniaApplication1.Assets.Resources.ru-Ru.resources
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Debug/net8.0/AvaloniaApplication1.csproj.GenerateResource.cache
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Debug/net8.0/AvaloniaApplication1.GeneratedMSBuildEditorConfig.editorconfig
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Debug/net8.0/AvaloniaApplication1.AssemblyInfoInputs.cache
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Debug/net8.0/AvaloniaApplication1.AssemblyInfo.cs
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Debug/net8.0/AvaloniaApplication1.csproj.CoreCompileInputs.cache
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Debug/net8.0/AvaloniaApplication1.sourcelink.json
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Debug/net8.0/Avalonia/references
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Debug/net8.0/Avalonia/original.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Debug/net8.0/Avalonia/original.pdb
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Debug/net8.0/Avalonia/original.ref.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Debug/net8.0/refint/AvaloniaApplication1.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Debug/net8.0/AvaloniaApplication1.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Debug/net8.0/AvaloniaApplication1.pdb
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Debug/net8.0/ru-Ru/AvaloniaApplication1.resources.cs
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Debug/net8.0/ru-Ru/AvaloniaApplication1.resources.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Debug/net8.0/AvaloniaApplication1.csproj.CopyComplete
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Debug/net8.0/AvaloniaApplication1.genruntimeconfig.cache
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Debug/net8.0/ref/AvaloniaApplication1.dll
 D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\AvaloniaApplication1.exe
 D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\AvaloniaApplication1.deps.json
 D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\AvaloniaApplication1.runtimeconfig.json
 D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\AvaloniaApplication1.dll
 D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\AvaloniaApplication1.pdb
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\ru-Ru\AvaloniaApplication1.resources.dll
 D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\Avalonia.Base.dll
 D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\Avalonia.Controls.dll
 D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\Avalonia.DesignerSupport.dll
@@ -28,17 +369,29 @@ D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net
 D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\Avalonia.Win32.dll
 D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\Avalonia.X11.dll
 D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\DynamicData.dll
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\EntityFramework.SqlServer.dll
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\EntityFramework.dll
 D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\HarfBuzzSharp.dll
 D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\MicroCom.Runtime.dll
 D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
 D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
 D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
 D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\Newtonsoft.Json.dll
 D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\ReactiveUI.dll
 D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\SkiaSharp.dll
 D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\Splat.dll
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\System.Data.SQLite.dll
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\System.CodeDom.dll
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\System.Drawing.Common.dll
 D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\System.IO.Pipelines.dll
 D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\System.Reactive.dll
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\System.Windows.Extensions.dll
 D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\Tmds.DBus.Protocol.dll
 D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
 D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
@@ -104,6 +457,10 @@ D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net
 D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
 D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
 D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
 D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\runtimes\linux-arm\native\libSkiaSharp.so
 D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\runtimes\linux-arm64\native\libSkiaSharp.so
 D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
@@ -112,39 +469,6 @@ D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net
 D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
 D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
 D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
-D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\obj\Debug\net8.0\AvaloniaApplication1.csproj.AssemblyReference.cache
-D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\obj\Debug\net8.0\Avalonia\Resources.Inputs.cache
-D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\obj\Debug\net8.0\Avalonia\resources
-D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\obj\Debug\net8.0\AvaloniaApplication1.GeneratedMSBuildEditorConfig.editorconfig
-D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\obj\Debug\net8.0\AvaloniaApplication1.AssemblyInfoInputs.cache
-D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\obj\Debug\net8.0\AvaloniaApplication1.AssemblyInfo.cs
-D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\obj\Debug\net8.0\AvaloniaApplication1.csproj.CoreCompileInputs.cache
-D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\obj\Debug\net8.0\Avalonia\references
-D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\obj\Debug\net8.0\Avalonia\original.dll
-D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\obj\Debug\net8.0\Avalonia\original.pdb
-D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\obj\Debug\net8.0\Avalonia\original.ref.dll
-D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\obj\Debug\net8.0\refint\AvaloniaApplication1.dll
-D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\obj\Debug\net8.0\AvaloniaApplication1.dll
-D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\obj\Debug\net8.0\AvaloniaApplication1.pdb
-D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\obj\Debug\net8.0\Avalonia.FDB175D9.Up2Date
-D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\obj\Debug\net8.0\AvaloniaApplication1.genruntimeconfig.cache
-D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\obj\Debug\net8.0\ref\AvaloniaApplication1.dll
-D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\Newtonsoft.Json.dll
-D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\obj\Debug\net8.0\AvaloniaApplication1.csproj.GenerateResource.cache
-D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\obj\Debug\net8.0\AvaloniaApplication1.Assets.Resources.resources
-D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\obj\Debug\net8.0\AvaloniaApplication1.Assets.Resources.ru-Ru.resources
-D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\ru-Ru\AvaloniaApplication1.resources.dll
-D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\obj\Debug\net8.0\ru-Ru\AvaloniaApplication1.resources.cs
-D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\obj\Debug\net8.0\ru-Ru\AvaloniaApplication1.resources.dll
-D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\AvaloniaLibraryManagementSystemModels.dll
-D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\AvaloniaLibraryManagementSystemModels.pdb
-D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\System.Data.SqlClient.dll
-D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
-D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
-D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
-D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
-D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
-D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\System.Data.SQLite.dll
 D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\runtimes\linux-x64\native\libsqlite3.so
 D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\runtimes\osx-x64\native\libsqlite3.dylib
 D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\runtimes\win7-x64\native\sqlite3.dll
@@ -153,17 +477,34 @@ D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net
 D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\runtimes\osx-x64\native\SQLite.Interop.dll
 D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\runtimes\win-x64\native\SQLite.Interop.dll
 D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\runtimes\win-x86\native\SQLite.Interop.dll
-D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\EntityFramework.SqlServer.dll
-D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\EntityFramework.dll
-D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
-D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\System.CodeDom.dll
-D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
-D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\System.Drawing.Common.dll
-D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
-D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\System.Security.Permissions.dll
-D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\System.Windows.Extensions.dll
-D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
 D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\AvaloniaLibraryManagementSystemModels.dll
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Debug\net8.0\AvaloniaLibraryManagementSystemModels.pdb
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\obj\Debug\net8.0\AvaloniaApplication1.csproj.AssemblyReference.cache
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\obj\Debug\net8.0\Avalonia\Resources.Inputs.cache
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\obj\Debug\net8.0\Avalonia\resources
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\obj\Debug\net8.0\AvaloniaApplication1.Assets.Resources.resources
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\obj\Debug\net8.0\AvaloniaApplication1.Assets.Resources.ru-Ru.resources
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\obj\Debug\net8.0\AvaloniaApplication1.csproj.GenerateResource.cache
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\obj\Debug\net8.0\AvaloniaApplication1.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\obj\Debug\net8.0\AvaloniaApplication1.AssemblyInfoInputs.cache
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\obj\Debug\net8.0\AvaloniaApplication1.AssemblyInfo.cs
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\obj\Debug\net8.0\AvaloniaApplication1.csproj.CoreCompileInputs.cache
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\obj\Debug\net8.0\AvaloniaApplication1.sourcelink.json
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\obj\Debug\net8.0\Avalonia\references
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\obj\Debug\net8.0\Avalonia\original.dll
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\obj\Debug\net8.0\Avalonia\original.pdb
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\obj\Debug\net8.0\Avalonia\original.ref.dll
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\obj\Debug\net8.0\refint\AvaloniaApplication1.dll
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\obj\Debug\net8.0\AvaloniaApplication1.dll
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\obj\Debug\net8.0\AvaloniaApplication1.pdb
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\obj\Debug\net8.0\ru-Ru\AvaloniaApplication1.resources.cs
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\obj\Debug\net8.0\ru-Ru\AvaloniaApplication1.resources.dll
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\obj\Debug\net8.0\Avalonia.FDB175D9.Up2Date
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\obj\Debug\net8.0\AvaloniaApplication1.genruntimeconfig.cache
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\obj\Debug\net8.0\ref\AvaloniaApplication1.dll

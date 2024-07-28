@@ -1,3 +1,4 @@
+using System;
 using System.Globalization;
 using Avalonia;
 using Avalonia.Controls.ApplicationLifetimes;
@@ -16,7 +17,9 @@ namespace AvaloniaApplication1
 
         public override void OnFrameworkInitializationCompleted()
         {
-            Assets.Resources.Culture = CultureInfo.CurrentCulture;//new CultureInfo("ru-Ru");
+            Assets.Resources.Culture = CultureInfo.CurrentCulture;//new CultureInfo("ru-Ru")
+
+            Console.WriteLine(Assets.Resources.Culture);
             if (ApplicationLifetime is IClassicDesktopStyleApplicationLifetime desktop)
             {
                 desktop.MainWindow = new MainWindow

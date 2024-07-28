@@ -1,0 +1,231 @@
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/AvaloniaApplication1
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/AvaloniaApplication1.deps.json
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/AvaloniaApplication1.runtimeconfig.json
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/AvaloniaApplication1.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/AvaloniaApplication1.pdb
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/ru-Ru/AvaloniaApplication1.resources.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/Avalonia.Base.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/Avalonia.Controls.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/Avalonia.DesignerSupport.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/Avalonia.Dialogs.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/Avalonia.Markup.Xaml.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/Avalonia.Markup.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/Avalonia.Metal.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/Avalonia.MicroCom.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/Avalonia.OpenGL.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/Avalonia.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/Avalonia.Controls.DataGrid.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/Avalonia.Desktop.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/Avalonia.Fonts.Inter.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/Avalonia.FreeDesktop.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/Avalonia.Native.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/Avalonia.ReactiveUI.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/Avalonia.Remote.Protocol.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/Avalonia.Skia.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/Avalonia.Themes.Fluent.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/Avalonia.Win32.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/Avalonia.X11.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/DynamicData.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/EntityFramework.SqlServer.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/EntityFramework.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/HarfBuzzSharp.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/MicroCom.Runtime.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/Microsoft.Win32.SystemEvents.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/Newtonsoft.Json.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/ReactiveUI.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/SkiaSharp.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/Splat.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/System.Data.SQLite.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/System.CodeDom.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/System.Configuration.ConfigurationManager.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/System.Data.SqlClient.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/System.Drawing.Common.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/System.IO.Pipelines.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/System.Reactive.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/System.Security.Cryptography.ProtectedData.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/System.Security.Permissions.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/System.Windows.Extensions.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/Tmds.DBus.Protocol.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/libHarfBuzzSharp.so
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/libSkiaSharp.so
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/libsqlite3.so
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/SQLite.Interop.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/AvaloniaLibraryManagementSystemModels.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/AvaloniaLibraryManagementSystemModels.pdb
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Release/net8.0/linux-x64/AvaloniaApplication1.csproj.AssemblyReference.cache
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Release/net8.0/linux-x64/Avalonia/Resources.Inputs.cache
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Release/net8.0/linux-x64/Avalonia/resources
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Release/net8.0/linux-x64/AvaloniaApplication1.Assets.Resources.resources
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Release/net8.0/linux-x64/AvaloniaApplication1.Assets.Resources.ru-Ru.resources
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Release/net8.0/linux-x64/AvaloniaApplication1.csproj.GenerateResource.cache
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Release/net8.0/linux-x64/AvaloniaApplication1.GeneratedMSBuildEditorConfig.editorconfig
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Release/net8.0/linux-x64/AvaloniaApplication1.AssemblyInfoInputs.cache
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Release/net8.0/linux-x64/AvaloniaApplication1.AssemblyInfo.cs
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Release/net8.0/linux-x64/AvaloniaApplication1.csproj.CoreCompileInputs.cache
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Release/net8.0/linux-x64/AvaloniaApplication1.sourcelink.json
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Release/net8.0/linux-x64/Avalonia/references
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Release/net8.0/linux-x64/Avalonia/original.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Release/net8.0/linux-x64/Avalonia/original.pdb
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Release/net8.0/linux-x64/Avalonia/original.ref.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Release/net8.0/linux-x64/refint/AvaloniaApplication1.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Release/net8.0/linux-x64/AvaloniaApplication1.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Release/net8.0/linux-x64/AvaloniaApplication1.pdb
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Release/net8.0/linux-x64/ru-Ru/AvaloniaApplication1.resources.cs
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Release/net8.0/linux-x64/ru-Ru/AvaloniaApplication1.resources.dll
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Release/net8.0/linux-x64/Avalonia.FDB175D9.Up2Date
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Release/net8.0/linux-x64/AvaloniaApplication1.genruntimeconfig.cache
+D:/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Release/net8.0/linux-x64/ref/AvaloniaApplication1.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/AvaloniaApplication1
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/AvaloniaApplication1.deps.json
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/AvaloniaApplication1.runtimeconfig.json
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/AvaloniaApplication1.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/AvaloniaApplication1.pdb
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/ru-Ru/AvaloniaApplication1.resources.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/Avalonia.Base.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/Avalonia.Controls.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/Avalonia.DesignerSupport.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/Avalonia.Dialogs.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/Avalonia.Markup.Xaml.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/Avalonia.Markup.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/Avalonia.Metal.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/Avalonia.MicroCom.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/Avalonia.OpenGL.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/Avalonia.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/Avalonia.Controls.DataGrid.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/Avalonia.Desktop.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/Avalonia.Fonts.Inter.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/Avalonia.FreeDesktop.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/Avalonia.Native.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/Avalonia.ReactiveUI.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/Avalonia.Remote.Protocol.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/Avalonia.Skia.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/Avalonia.Themes.Fluent.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/Avalonia.Win32.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/Avalonia.X11.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/DynamicData.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/EntityFramework.SqlServer.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/EntityFramework.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/HarfBuzzSharp.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/MicroCom.Runtime.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/Microsoft.Win32.SystemEvents.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/Newtonsoft.Json.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/ReactiveUI.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/SkiaSharp.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/Splat.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/System.Data.SQLite.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/System.CodeDom.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/System.Configuration.ConfigurationManager.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/System.Data.SqlClient.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/System.Drawing.Common.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/System.IO.Pipelines.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/System.Reactive.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/System.Security.Cryptography.ProtectedData.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/System.Security.Permissions.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/System.Windows.Extensions.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/Tmds.DBus.Protocol.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/libHarfBuzzSharp.so
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/libSkiaSharp.so
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/libsqlite3.so
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/SQLite.Interop.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/AvaloniaLibraryManagementSystemModels.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/bin/Release/net8.0/linux-x64/AvaloniaLibraryManagementSystemModels.pdb
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Release/net8.0/linux-x64/AvaloniaApplication1.csproj.AssemblyReference.cache
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Release/net8.0/linux-x64/Avalonia/Resources.Inputs.cache
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Release/net8.0/linux-x64/Avalonia/resources
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Release/net8.0/linux-x64/AvaloniaApplication1.Assets.Resources.resources
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Release/net8.0/linux-x64/AvaloniaApplication1.Assets.Resources.ru-Ru.resources
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Release/net8.0/linux-x64/AvaloniaApplication1.csproj.GenerateResource.cache
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Release/net8.0/linux-x64/AvaloniaApplication1.GeneratedMSBuildEditorConfig.editorconfig
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Release/net8.0/linux-x64/AvaloniaApplication1.AssemblyInfoInputs.cache
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Release/net8.0/linux-x64/AvaloniaApplication1.AssemblyInfo.cs
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Release/net8.0/linux-x64/AvaloniaApplication1.csproj.CoreCompileInputs.cache
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Release/net8.0/linux-x64/AvaloniaApplication1.sourcelink.json
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Release/net8.0/linux-x64/Avalonia/references
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Release/net8.0/linux-x64/Avalonia/original.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Release/net8.0/linux-x64/Avalonia/original.pdb
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Release/net8.0/linux-x64/Avalonia/original.ref.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Release/net8.0/linux-x64/refint/AvaloniaApplication1.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Release/net8.0/linux-x64/AvaloniaApplication1.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Release/net8.0/linux-x64/AvaloniaApplication1.pdb
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Release/net8.0/linux-x64/ru-Ru/AvaloniaApplication1.resources.cs
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Release/net8.0/linux-x64/ru-Ru/AvaloniaApplication1.resources.dll
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Release/net8.0/linux-x64/AvaloniaApplication1.csproj.CopyComplete
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Release/net8.0/linux-x64/AvaloniaApplication1.genruntimeconfig.cache
+/run/media/arseniy/Локальный диск/VSProjects/AvaloniaLibraryManagementSystem/AvaloniaApplication1/obj/Release/net8.0/linux-x64/ref/AvaloniaApplication1.dll
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Release\net8.0\linux-x64\AvaloniaApplication1
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Release\net8.0\linux-x64\AvaloniaApplication1.deps.json
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Release\net8.0\linux-x64\AvaloniaApplication1.runtimeconfig.json
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Release\net8.0\linux-x64\AvaloniaApplication1.dll
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Release\net8.0\linux-x64\AvaloniaApplication1.pdb
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Release\net8.0\linux-x64\ru-Ru\AvaloniaApplication1.resources.dll
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Release\net8.0\linux-x64\Avalonia.Base.dll
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Release\net8.0\linux-x64\Avalonia.Controls.dll
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Release\net8.0\linux-x64\Avalonia.DesignerSupport.dll
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Release\net8.0\linux-x64\Avalonia.Dialogs.dll
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Release\net8.0\linux-x64\Avalonia.Markup.Xaml.dll
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Release\net8.0\linux-x64\Avalonia.Markup.dll
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Release\net8.0\linux-x64\Avalonia.Metal.dll
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Release\net8.0\linux-x64\Avalonia.MicroCom.dll
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Release\net8.0\linux-x64\Avalonia.OpenGL.dll
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Release\net8.0\linux-x64\Avalonia.dll
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Release\net8.0\linux-x64\Avalonia.Controls.DataGrid.dll
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Release\net8.0\linux-x64\Avalonia.Desktop.dll
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Release\net8.0\linux-x64\Avalonia.Fonts.Inter.dll
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Release\net8.0\linux-x64\Avalonia.FreeDesktop.dll
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Release\net8.0\linux-x64\Avalonia.Native.dll
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Release\net8.0\linux-x64\Avalonia.ReactiveUI.dll
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Release\net8.0\linux-x64\Avalonia.Remote.Protocol.dll
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Release\net8.0\linux-x64\Avalonia.Skia.dll
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Release\net8.0\linux-x64\Avalonia.Themes.Fluent.dll
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Release\net8.0\linux-x64\Avalonia.Win32.dll
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Release\net8.0\linux-x64\Avalonia.X11.dll
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Release\net8.0\linux-x64\DynamicData.dll
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Release\net8.0\linux-x64\EntityFramework.SqlServer.dll
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Release\net8.0\linux-x64\EntityFramework.dll
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Release\net8.0\linux-x64\HarfBuzzSharp.dll
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Release\net8.0\linux-x64\MicroCom.Runtime.dll
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Release\net8.0\linux-x64\Microsoft.Win32.SystemEvents.dll
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Release\net8.0\linux-x64\Newtonsoft.Json.dll
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Release\net8.0\linux-x64\ReactiveUI.dll
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Release\net8.0\linux-x64\SkiaSharp.dll
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Release\net8.0\linux-x64\Splat.dll
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Release\net8.0\linux-x64\System.Data.SQLite.dll
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Release\net8.0\linux-x64\System.CodeDom.dll
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Release\net8.0\linux-x64\System.Configuration.ConfigurationManager.dll
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Release\net8.0\linux-x64\System.Data.SqlClient.dll
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Release\net8.0\linux-x64\System.Drawing.Common.dll
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Release\net8.0\linux-x64\System.IO.Pipelines.dll
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Release\net8.0\linux-x64\System.Reactive.dll
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Release\net8.0\linux-x64\System.Security.Cryptography.ProtectedData.dll
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Release\net8.0\linux-x64\System.Security.Permissions.dll
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Release\net8.0\linux-x64\System.Windows.Extensions.dll
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Release\net8.0\linux-x64\Tmds.DBus.Protocol.dll
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Release\net8.0\linux-x64\libHarfBuzzSharp.so
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Release\net8.0\linux-x64\libSkiaSharp.so
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Release\net8.0\linux-x64\libsqlite3.so
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Release\net8.0\linux-x64\SQLite.Interop.dll
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Release\net8.0\linux-x64\AvaloniaLibraryManagementSystemModels.dll
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\bin\Release\net8.0\linux-x64\AvaloniaLibraryManagementSystemModels.pdb
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\obj\Release\net8.0\linux-x64\AvaloniaApplication1.csproj.AssemblyReference.cache
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\obj\Release\net8.0\linux-x64\Avalonia\Resources.Inputs.cache
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\obj\Release\net8.0\linux-x64\Avalonia\resources
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\obj\Release\net8.0\linux-x64\AvaloniaApplication1.Assets.Resources.resources
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\obj\Release\net8.0\linux-x64\AvaloniaApplication1.Assets.Resources.ru-Ru.resources
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\obj\Release\net8.0\linux-x64\AvaloniaApplication1.csproj.GenerateResource.cache
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\obj\Release\net8.0\linux-x64\AvaloniaApplication1.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\obj\Release\net8.0\linux-x64\AvaloniaApplication1.AssemblyInfoInputs.cache
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\obj\Release\net8.0\linux-x64\AvaloniaApplication1.AssemblyInfo.cs
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\obj\Release\net8.0\linux-x64\AvaloniaApplication1.csproj.CoreCompileInputs.cache
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\obj\Release\net8.0\linux-x64\AvaloniaApplication1.sourcelink.json
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\obj\Release\net8.0\linux-x64\Avalonia\references
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\obj\Release\net8.0\linux-x64\Avalonia\original.dll
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\obj\Release\net8.0\linux-x64\Avalonia\original.pdb
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\obj\Release\net8.0\linux-x64\Avalonia\original.ref.dll
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\obj\Release\net8.0\linux-x64\refint\AvaloniaApplication1.dll
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\obj\Release\net8.0\linux-x64\AvaloniaApplication1.dll
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\obj\Release\net8.0\linux-x64\AvaloniaApplication1.pdb
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\obj\Release\net8.0\linux-x64\ru-Ru\AvaloniaApplication1.resources.cs
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\obj\Release\net8.0\linux-x64\ru-Ru\AvaloniaApplication1.resources.dll
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\obj\Release\net8.0\linux-x64\Avalonia.FDB175D9.Up2Date
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\obj\Release\net8.0\linux-x64\AvaloniaApplication1.genruntimeconfig.cache
+D:\VSProjects\AvaloniaLibraryManagementSystem\AvaloniaApplication1\obj\Release\net8.0\linux-x64\ref\AvaloniaApplication1.dll

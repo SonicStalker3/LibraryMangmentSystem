@@ -70,6 +70,42 @@ namespace AvaloniaApplication1.Assets {
         }
         
         /// <summary>
+        ///   Ищет локализованную строку, похожую на Author.
+        /// </summary>
+        public static string AuthorTableName {
+            get {
+                return ResourceManager.GetString("AuthorTableName", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на DataBase Preview.
+        /// </summary>
+        public static string DataBasePreviewButtonName {
+            get {
+                return ResourceManager.GetString("DataBasePreviewButtonName", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Description.
+        /// </summary>
+        public static string DescriptionTableName {
+            get {
+                return ResourceManager.GetString("DescriptionTableName", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Genre.
+        /// </summary>
+        public static string GenreTableName {
+            get {
+                return ResourceManager.GetString("GenreTableName", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Ищет локализованную строку, похожую на ID.
         /// </summary>
         public static string IDTableName {
@@ -93,6 +129,24 @@ namespace AvaloniaApplication1.Assets {
         public static string SearchBookButtonName {
             get {
                 return ResourceManager.GetString("SearchBookButtonName", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Settings.
+        /// </summary>
+        public static string SettingsButtonName {
+            get {
+                return ResourceManager.GetString("SettingsButtonName", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Title.
+        /// </summary>
+        public static string TitleTableName {
+            get {
+                return ResourceManager.GetString("TitleTableName", resourceCulture);
             }
         }
     }

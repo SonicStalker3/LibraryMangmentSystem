@@ -1,5 +1,6 @@
 ﻿using Avalonia;
 using Avalonia.Controls;
+using Avalonia.Input;
 using Avalonia.Interactivity;
 using Avalonia.Markup.Xaml;
 using AvaloniaApplication1.Models;
@@ -19,4 +20,10 @@ public partial class NewBookWindow : Window
         //var book = new Book { Title = Title, Author = Author, GenreTags = GenreTags.ToList() };
         throw new System.NotImplementedException();
     }
+
+    private void Cover_OnPointerPressed(object? sender, PointerPressedEventArgs e)
+    {
+        throw new System.NotImplementedException();
+    }
+    
 }
