@@ -3,7 +3,6 @@ using Avalonia.Controls;
 using Avalonia.Input;
 using Avalonia.Interactivity;
 using Avalonia.Markup.Xaml;
-using AvaloniaApplication1.Models;
 
 namespace AvaloniaApplication1.Views.Windows;
 

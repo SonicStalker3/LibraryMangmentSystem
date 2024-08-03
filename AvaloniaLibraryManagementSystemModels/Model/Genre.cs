@@ -1,18 +1,12 @@
-﻿namespace AvaloniaApplication1.Models;
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace AvaloniaLibraryManagementSystemModels.Model;
+
 
 public class Genre
 {
     public int Id { get; set; }
     public string Name { get; set; }
-    public ICollection<Book> Books { get; set; }
-
-    public Genre(int Id, string Name)
-    {
-        this.Id = Id;
-        this.Name = Name;
-    }
-
-    public Genre()
-    {
-    }
+    public virtual ICollection<BookGenre> BookGenres { get; set; }
+    
 }

@@ -59,6 +59,8 @@
                                         <TextBlock FontWeight="Bold" FontSize="14" Text="{Binding Author.FullName}" />
                                         <TextBlock FontWeight="Bold" FontSize="14" Text="{Binding PublicationYear}" />
                                         <TextBlock TextWrapping="Wrap" MaxLines="20" Text="{Binding Description}" />
+                                        <Separator/>
+                                        <TextBlock TextWrapping="Wrap" MaxLines="20" Text="{Binding Genres}" />
                                     </StackPanel>
                                 </Grid>
                             </Border>

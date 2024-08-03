@@ -1,155 +1,86 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Collections.ObjectModel;
-using System.Data;
-using System.Data.Entity;
-using System.Data.SQLite;
-using System.Linq;
-using AvaloniaApplication1.Models;
-using AvaloniaLibraryManagementSystemModels.Model;
-using AvaloniaLibraryManagementSystemModels.Systems;
+﻿using System.Collections.ObjectModel;
+using AvaloniaLibraryManagementSystemModels.DebugingData;
+using Microsoft.EntityFrameworkCore;
+using System.Data.Entity.ModelConfiguration;
 
-namespace AvaloniaApplication1.Data
+namespace AvaloniaLibraryManagementSystemModels.Model;
+
+public class DatabaseContext : DbContext
 {
-    public class DatabaseContext
+    public DbSet<Book> Books { get; set; }
+    public DbSet<Author> Authors { get; set; }
+    public DbSet<BBK> BBKs { get; set; }
+    public DbSet<Publisher> Publishers { get; set; }
+    public DbSet<Genre> Genres { get; set; }
+    public DbSet<BookGenre> BookGenres { get; set; }
+
+    public DatabaseContext()
     {
-        private readonly string _connectionString;
 
-        public DatabaseContext(string connectionString)
-        {
-            _connectionString = connectionString;
+    }
 
-            using var connection = new SQLiteConnection(_connectionString);
-            connection.Open();
+    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+    {
+        SQLitePCL.Batteries.Init();
+        optionsBuilder.UseSqlite("Data Source=Library.db");
+    }
 
-            // Create a command to execute a query
-            using var command = new SQLiteCommand(connection);
-            
-            // Create the Books table
-            command.CommandText = SqlRequests.CreateNewDB;
-            command.ExecuteNonQuery();
-        }
+    protected override void OnModelCreating(ModelBuilder modelBuilder)
+    {
+        modelBuilder.Entity<BookGenre>()
+            .HasKey(bg => new { bg.BookId, bg.GenreId });
 
-        public IEnumerable<Book> GetBooks()
-        {
-            using (var connection = new SQLiteConnection(_connectionString))
-            {
-                connection.Open();
+        modelBuilder.Entity<BookGenre>()
+            .HasOne(bg => bg.Book)
+            .WithMany(b => b.BookGenres)
+            .HasForeignKey(bg => bg.BookId);
 
-                using (var command = new SQLiteCommand(connection))
-                {
-                    command.CommandText = SqlRequests.GetBookQuery;
+        modelBuilder.Entity<BookGenre>()
+            .HasOne(bg => bg.Genre)
+            .WithMany(g => g.BookGenres)
+            .HasForeignKey(bg => bg.GenreId);
+    }
 
-                    using (var reader = command.ExecuteReader())
-                    {
-                        while (reader.Read())
-                        {
-                            string genresString = reader.GetString(4);
-                            List<Genre> genres = genresString.Split(',').Select(g => new Genre { Name = g.Trim() })
-                                .ToList();
-                            yield return new Book
-                            {
-                                Id = reader.GetInt32("Код_Книги"),
-                                Title = reader.GetString("Заголовок"),
-                                Author = new Author
-                                {
-                                    Id = Int32.Parse(reader.GetString(2).Split(' ')[0]),
-                                    FirstName = reader.GetString(2).Split(' ')[1],
-                                    LastName = reader.GetString(2).Split(' ')[2]
-                                },
-                                BBK = new BBK
-                                {
-                                    Code = reader.GetString(3).Split(' ')[1],
-                                    SciIndex = reader.GetString(3).Split(' ')[0],
-                                    Name = reader.GetString(3).Split(' ')[2]
-                                },
-                                Genres = genres,
-                                PublicationDate = DateOnly.Parse(reader.GetString(5)),
-                                Publisher = new Publisher { Name = reader.GetString(6) },
-                                Description = reader.IsDBNull(7) ? null : reader.GetString(7)
-                            };
-                            //Console.WriteLine(reader.GetString(2).Split(' ')[0]+ ' ' + reader.GetString(2).Split(' ')[1]);
-                            //Console.WriteLine(reader.GetString(2).Split(' ')[2]);
-                        }
-                    }
-                }
-            }
-        }
+    public void CreateDebugDatabase()
+    {
+        Genres.AddRange(TestingData.Genres);
+        SaveChanges();
 
-        public void AddBooks(List<Book> books, string authorFilter = null, string genreFilter = null)
-        {
-            using (var connection = new SQLiteConnection(_connectionString))
-            {
-                connection.Open();
-                var command = new SQLiteCommand(connection);
+        Authors.AddRange(TestingData.Authors);
+        SaveChanges();
 
-                // Insert books into Books table
-                var bookQuery = @"
-            INSERT INTO Books (Код_Книги, Заголовок, Author, BBK, Дата, Publisher, Описание)
-            VALUES (@Код_Книги, @Заголовок, @Author, @BBK, @Дата, @Publisher, @Описание);
-        ";
+        Publishers.AddRange(TestingData.Publishers);
+        SaveChanges();
 
-                // Insert genres into ЖанрыКниги table
-                var genreQuery = @"
-            INSERT INTO ЖанрыКниги (Код_Книги, Код_Жанра)
-            VALUES (@Код_Книги, @Код_Жанра);
-        ";
+        BBKs.AddRange(TestingData.BBKs);
+        SaveChanges();
 
-                foreach (var book in books)
-                {
-                    // Insert book into Books table
-                    command.Parameters.Clear();
-                    command.CommandText = bookQuery;
-                    command.Parameters.AddWithValue("@Код_Книги", book.Id);
-                    command.Parameters.AddWithValue("@Заголовок", book.Title);
-                    command.Parameters.AddWithValue("@Author", book.Author);
-                    command.Parameters.AddWithValue("@BBK", book.BBK);
-                    command.Parameters.AddWithValue("@Дата", book.PublicationDate.ToString("yyyy-MM-dd"));
-                    command.Parameters.AddWithValue("@Publisher", book.Publisher);
-                    command.Parameters.AddWithValue("@Описание", book.Description ?? string.Empty);
-                    command.ExecuteNonQuery();
+        Books.AddRange(TestingData.Book);
+        SaveChanges();
 
-                    // Insert genres into ЖанрыКниги table
-                    foreach (var genre in book.Genres)
-                    {
-                        command.Parameters.Clear();
-                        command.CommandText = genreQuery;
-                        command.Parameters.AddWithValue("@Код_Книги", book.Id);
-                        command.Parameters.AddWithValue("@Код_Жанра", genre.Id);
-                        command.ExecuteNonQuery();
-                    }
-                }
-            }
-        }
+        BookGenres.AddRange(TestingData.BookGenres);
+        SaveChanges();
+    }
 
-        public ObservableCollection<Genre> GetGenres()
-        {
-            using (var connection = new SQLiteConnection(_connectionString))
-            {
-                connection.Open();
-                var command = new SQLiteCommand(connection);
+    public IEnumerable<Book> GetBooks()
+    {
+        Genres.Load();
+        BookGenres.Load();
+        return Books
+            .Include(b => b.Author)
+            .Include(b => b.BBK)
+            .Include(b => b.BookGenres)
+            .Include(b => b.Publisher)
+            .ToList();
+    }
 
-                command.CommandText = @"
-                                        SELECT Код_Жанр, Название
-                                        FROM Жанры;
-                                      ";
+    public IEnumerable<Genre> GetGenres()
+    {
+        Genres.Load();
+        return Genres
+            .OrderBy(g => g.Name) // sort by name
+            .Include(g => g.BookGenres)
+            .ToList();
 
-                var genres = new ObservableCollection<Genre>();
-
-                using (var reader = command.ExecuteReader())
-                {
-                    while (reader.Read())
-                    {
-                        genres.Add(new Genre
-                        {
-                            Id = reader.GetInt32("Код_Жанр"),
-                            Name = reader.GetString("Название")
-                        });
-                    }
-                }
-
-                return genres;
-            }
-        }
     }
 }

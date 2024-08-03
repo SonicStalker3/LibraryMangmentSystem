@@ -3,7 +3,7 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:viewModels="clr-namespace:AvaloniaApplication1.ViewModels"
-        xmlns:models="clr-namespace:AvaloniaApplication1.Models;assembly=AvaloniaLibraryManagementSystemModels"
+        xmlns:models="clr-namespace:AvaloniaLibraryManagementSystemModels.Model;assembly=AvaloniaLibraryManagementSystemModels"
         xmlns:assets="clr-namespace:AvaloniaApplication1.Assets"
         mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
         x:Class="AvaloniaApplication1.Views.Windows.NewBookWindow"

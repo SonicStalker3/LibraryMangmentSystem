@@ -1,17 +1,10 @@
-﻿using System.Collections.Generic;
-using System.Collections.ObjectModel;
+﻿using System.Collections.ObjectModel;
 using System;
-using System.Data.SqlClient;
-using System.Diagnostics;
-using System.IO;
 using Avalonia;
-using AvaloniaApplication1.Models;
-using AvaloniaLibraryManagementSystemModels.Systems;
 using ReactiveUI;
-using System.Data.SQLite;
 using System.Linq;
-using System.Threading.Tasks;
-using AvaloniaApplication1.Data;
+using AvaloniaLibraryManagementSystemModels.Model;
+using Microsoft.EntityFrameworkCore;
 
 namespace AvaloniaApplication1.ViewModels
 {
@@ -20,12 +13,12 @@ namespace AvaloniaApplication1.ViewModels
         private Book _selectedBook;
         public string Greeting => "Welcome to Library Managment System!";
 
-        private DatabaseContext _databaseContext = new DatabaseContext($"Data Source=Library.db");
+        private DatabaseContext _databaseContext = new DatabaseContext();
 
         public ColumnCountConverter ColumnCountConverter = new ColumnCountConverter();
         public ObservableCollection<Book> Books { get; }
 
-        public ObservableCollection<Genre> Genres { get; }
+        public ObservableCollection<Genre>? Genres { get; }
 
         private ObservableCollection<string> _genresNames;
         public ObservableCollection<string> GenresNames
@@ -48,16 +41,21 @@ namespace AvaloniaApplication1.ViewModels
             }
         }
         
-        
-        
-
         public MainWindowViewModel()
         {
-            Books = new ObservableCollection<Book>(_databaseContext.GetBooks());
-            Genres = _databaseContext.GetGenres();
-            _genresNames = new ObservableCollection<string>(Genres.Select(x => x.Name));
-            //Console.WriteLine(GenresNames[0]);
-            //Application.Current.Exit += (sender, e) => { };
+            using (var context = new DatabaseContext())
+            {
+                if (context.Database.EnsureCreated())
+                {
+                    context.Database.Migrate();
+                    context.CreateDebugDatabase();
+                }
+            }
+            
+            Books = new ObservableCollection<Book>(_databaseContext.GetBooks().ToList());
+            Genres = new ObservableCollection<Genre>(_databaseContext.GetGenres().ToList());
+            Console.WriteLine(Books[0].BookGenres.Count);
+            if (Genres != null) _genresNames = new ObservableCollection<string>(Genres.ToList().Select(x => x.Name));
         }
     }
 }

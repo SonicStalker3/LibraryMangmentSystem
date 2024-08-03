@@ -1,14 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.ComponentModel.DataAnnotations;
 
-namespace AvaloniaApplication1.Models
+namespace AvaloniaLibraryManagementSystemModels.Model;
+
+public class Publisher
 {
-    public class Publisher
-    {
-        public int Id { get; set; }
-        public string Name { get; set; }
-    }
+    public int Id { get; set; }
+    public string Name { get; set; }
+    public string ISBN { get; set; }
 }

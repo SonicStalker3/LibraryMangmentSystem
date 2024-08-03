@@ -2,9 +2,9 @@ using System;
 using Avalonia.Controls;
 using Avalonia.Input;
 using Avalonia.Interactivity;
-using AvaloniaApplication1.Models;
 using AvaloniaApplication1.ViewModels;
 using AvaloniaApplication1.Views.Windows;
+using AvaloniaLibraryManagementSystemModels.Model;
 
 namespace AvaloniaApplication1.Views
 {

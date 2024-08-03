@@ -50,7 +50,7 @@
                         <DataGridTextColumn Header="{x:Static assets:Resources.IDTableName}"  Binding="{Binding Id}"/>
                         <DataGridTextColumn Header="{x:Static assets:Resources.AuthorTableName}" Binding="{Binding Author.FullName}" />
                         <DataGridTextColumn Header="{x:Static assets:Resources.TitleTableName}" Binding="{Binding Title}" />
-                        <DataGridTextColumn Header="{x:Static assets:Resources.GenreTableName}" Binding="{Binding GenreTags}" />
+                        <DataGridTextColumn Header="{x:Static assets:Resources.GenreTableName}" Binding="{Binding Genres}" />
                     </DataGrid.Columns>
                 </DataGrid>
             </Grid>
@@ -79,10 +79,10 @@
                         <Run Text="{x:Static assets:Resources.GenreTableName}"/>
                         <Run Text=":"/>
                     </TextBlock>
-                    <TextBlock Text="{Binding SelectedBook.GenreTags}" Margin="5,0,5,0"/>
+                    <TextBlock Text="{Binding SelectedBook.Genres}" Margin="5,0,5,0"/>
                     
                     <TextBlock Text="ББК:" Margin="5,5"/>
-                    <TextBlock Text="{Binding SelectedBook.BBK.Name}" Margin="5,0,5,0"/>
+                    <TextBlock Text="{Binding SelectedBook.BBK.SectionName}" Margin="5,0,5,0"/>
                     
                     <TextBlock Margin="5,5">
                         <Run Text="{x:Static assets:Resources.DescriptionTableName}"/>
